@@ -34,8 +34,8 @@ fn main() {
     // or
     let slice = str.as_str();
 
-    let first_name = "Ryan";
-    let last_name = "Basden";
+    let first_name = "ry";
+    let last_name = "baz";
     let full_name = format!("{} {}", first_name, last_name);
     println!("{}", full_name);
 }
